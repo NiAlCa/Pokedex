@@ -17,7 +17,7 @@ export const SearchPage = () => {
   return (
     <div className="container">
       <p className="p-search">
-        se encontraron <span>{filteredPokemons.lenght}</span> resultados: {" "}
+        se encontraron <span>{filteredPokemons.length}</span> resultados: {" "}
       </p>
 
       <div className="card-list-pokemon container">
